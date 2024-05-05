@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariel-plaza&label=Profile%20views&color=0e75b6&style=flat" alt="ariel-plaza" /> </p>
 
-- 🔭 I’m currently working on [aprmaicolpue_v2](https://github.com/Ariel-Plaza/aprmaicolpue_v2)
+- 🔭 I’m currently working on [arielplaza.com]([https://github.com/Ariel-Plaza/aprmaicolpue_v2](https://github.com/Ariel-Plaza/arielplaza.com))
 
 - 🌱 I’m currently learning **React**
 
