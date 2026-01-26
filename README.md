@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Ariel Plaza</h1>
-<h3 align="center">Soy front-end developer apasionado en la creacion de paginas web. Y esto me ha llevado a estudiar tecnologías de backend, para crear aplicaciones web y páginas más complejas..</h3>
+<h3 align="center">Soy backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariel-plaza&label=Profile%20views&color=0e75b6&style=flat" alt="ariel-plaza" /> </p>
 
 - 🔭 Actualmente estoy trabajando en [arielplaza.com]([https://github.com/Ariel-Plaza/aprmaicolpue_v2](https://github.com/Ariel-Plaza/arielplaza.com))
 
-- 🌱 Actualmente estoy aprendiendo  **React**
+- 🌱 Actualmente estoy aprendiendo  **Java**
 
 - 👨‍💻 Puedes ver todos mis proyectos en [www.arielplaza.com](www.arielplaza.com)
 
