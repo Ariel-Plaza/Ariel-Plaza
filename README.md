@@ -1,27 +1,92 @@
-<h1 align="center">Hola 👋, Soy Ariel Plaza</h1>
-<h3 align="center">Soy backend developer</h3>
+# Hola, soy Ariel Plaza 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariel-plaza&label=Profile%20views&color=0e75b6&style=flat" alt="ariel-plaza" /> </p>
+### Backend Developer | Python · Java · Node.js
+**Santiago, Chile** · [arielplaza.com](https://www.arielplaza.com) · [LinkedIn](https://linkedin.com/in/arielplazas)
 
-- 🔭 Actualmente estoy trabajando en [arielplaza.com]([https://github.com/Ariel-Plaza/aprmaicolpue_v2](https://github.com/Ariel-Plaza/arielplaza.com))
+---
 
-- 🌱 Actualmente estoy aprendiendo  **Java**
+## 🧑‍💻 Sobre mí
 
-- 👨‍💻 Puedes ver todos mis proyectos en [www.arielplaza.com](www.arielplaza.com)
+Desarrollador Backend con stack certificado en **Python/Django REST**, **Java/Spring Boot** y **Node.js/Express**.
 
-- 📫 Puedes contactarme en **web@arielplaza.com**
+Más de **1.260 horas de formación** avaladas por SENCE, Talento Digital para Chile y Oracle Next Education (Alura LATAM). He participado en proyectos reales de simulación laboral en sectores **Fintech** e **ITSM**, trabajando en equipos remotos internacionales.
 
-- 📄 Mas información sobre mi experiencia  [https://www.linkedin.com/in/arielplazas/](https://www.linkedin.com/in/arielplazas/)
+Aporto 5 años de experiencia en soporte TI en infraestructura crítica de telecomunicaciones (Entel), lo que me da una visión real de sistemas empresariales que pocos developers de formación tienen.
 
-<h3 align="left">Contactame:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arielplazas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arielplazas/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Lenguajes y Herramientas :</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## 🛠️ Stack técnico
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariel-plaza&show_icons=true&locale=en" alt="ariel-plaza" /></p>
+**Backend**
+```
+Python · Django · Django REST Framework · JWT
+Java · Spring Boot · Spring Data JPA
+Node.js · Express
+```
 
-# Ariel-Plaza
-# Ariel-Plaza
+**Bases de datos**
+```
+PostgreSQL · MySQL · SQLite
+```
+
+**Herramientas**
+```
+Git · GitHub · Docker · Postman · Insomnia
+```
+
+**Frontend (soporte)**
+```
+React · HTML5 · CSS3 · Bootstrap
+```
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🔐 [forum-hub-api](https://github.com/Ariel-Plaza/forum-hub-api)
+API REST de foro académico con **Java + Spring Boot**. Autenticación con Spring Security + JWT, gestión de roles y persistencia con Spring Data JPA.
+`Java` `Spring Boot` `Spring Data JPA` `JWT`
+
+---
+
+### 📚 [litquest-api](https://github.com/Ariel-Plaza/litquest-api)
+API de gestión de libros y lecturas. Proyecto final del programa **Oracle Next Education** (Oracle + Alura LATAM).
+`Java` `Spring Boot` `API REST`
+
+---
+
+### 🏨 [PatagoniaHostelManager](https://github.com/Ariel-Plaza/PatagoniaHostelManager)
+Aplicación de gestión de hostal con módulos de reservas, huéspedes y habitaciones. En desarrollo activo.
+`Node.js` `Express` `PostgreSQL` `Bootstrap`
+
+---
+
+### 🎫 Servidesk — NoCountry (Feb 2025)
+Plataforma de gestión de incidencias técnicas desarrollada en simulación laboral remota. Sistema de tickets, roles, reportes y autenticación JWT.
+`Python` `Django REST Framework` `JWT` `SQLite`
+> Repositorio: [No-Country-simulation/c23-66-webapp](https://github.com/Ariel-Plaza/c23-66-webapp)
+
+---
+
+### 🔍 AI Fraud Detection — NoCountry (Nov 2025)
+Sistema de detección de fraude financiero en tiempo real. Integración de **Apache Kafka con Docker** para pipeline de ingestión de transacciones. Equipo internacional de 6 personas.
+`Java` `Apache Kafka` `Docker` `Node.js`
+> Repositorio: [daipiccard/AI_agent_NC](https://github.com/daipiccard/AI_agent_NC)
+
+---
+
+## 📜 Certificaciones
+
+| Certificación | Institución | Horas |
+|---|---|---|
+| Programa Java Backend — Oracle ONE | Oracle + Alura LATAM | 326 hrs |
+| Bootcamp Fullstack Python | Talento Digital / SENCE | 462 hrs |
+| Bootcamp Fullstack JavaScript | Talento Digital / SENCE | 472 hrs |
+
+---
+
+## 📫 Contacto
+
+- 📧 developer@arielplaza.com
+- 🌐 [arielplaza.com](https://www.arielplaza.com)
+- 💼 [linkedin.com/in/arielplazas](https://linkedin.com/in/arielplazas)
