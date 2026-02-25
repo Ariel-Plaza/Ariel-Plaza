@@ -1,7 +1,7 @@
 # Hola, soy Ariel Plaza 👋
 
 ### Backend Developer | Python · Java · Node.js
-**Santiago, Chile** · [arielplaza.com](https://www.arielplaza.com) · [LinkedIn](https://linkedin.com/in/arielplazas)
+**Punta Arenas, Chile** · [arielplaza.com](https://www.arielplaza.com) · [LinkedIn](https://linkedin.com/in/arielplazas)
 
 ---
 
